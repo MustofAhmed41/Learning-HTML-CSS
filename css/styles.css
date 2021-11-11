@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial;
+}
+
+h2{
+font-family: system-ui;
+font-size: 24px;
+}
+
+h3{
+  font-family: system-ui;
+  font-size: 20px;
+  color: #91978D;
+}
+
+.div1{
+
+ float: left;
+ background-color: white;
+ background-size: contain;
+ text-align: center;
+ margin: 10px;
+ box-shadow: 1px 1px 1px 1px #c1c4c9;
+
+}

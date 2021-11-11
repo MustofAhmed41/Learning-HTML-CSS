@@ -5,6 +5,6 @@ A simple layout which I've created to learn HTML & CSS
 
 Screeenshot
 -------------
-![Capture1](https://user-images.githubusercontent.com/46398353/141287479-489af1d3-0088-4e18-8a8b-7b101cdf3d79.PNG)
+![Capture1](https://user-images.githubusercontent.com/46398353/141288034-e5c11935-a055-4c9b-9229-10714440f94c.PNG)
 
-![Capture](https://user-images.githubusercontent.com/46398353/141287487-290d05dd-728a-4a19-9671-46fbb51d9ff7.PNG)
+![Capture](https://user-images.githubusercontent.com/46398353/141288047-170b998c-3ee6-44ee-830d-11020e86e9ef.PNG)
